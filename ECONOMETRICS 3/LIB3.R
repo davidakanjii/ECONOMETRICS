@@ -1,0 +1,5 @@
+library(quantmod)
+library(xts)
+library(zoo)
+library(PerformanceAnalytics)
+library(knitr)
